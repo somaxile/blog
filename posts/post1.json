@@ -1,0 +1,8 @@
+{
+    "id": "post1",
+    "title": "Mi primera entrada",
+    "date": "27 de febrero de 2025",
+    "excerpt": "<p>Este es un resumen del artículo...</p>",
+    "content": "<p>Contenido completo del artículo...</p>",
+    "categories": ["reflexiones", "tecnologia"]
+  }
