@@ -1,25 +1,6 @@
 [
     {
       "id": "post1",
-      "categories": ["reflexiones", "tecnologia"]
-    },
-    {
-      "id": "post2",
-      "categories": ["analisis", "actualidad"]
-    },    {
-      "id": "post3",
-      "categories": ["reflexiones", "tecnologia"]
-    },
-        {
-      "id": "post4",
-      "categories": ["reflexiones", "tecnologia"]
-    },
-       {
-      "id": "post5",
-      "categories": ["reflexiones", "tecnologia"]
-    },
-       {
-      "id": "post6",
-      "categories": ["reflexiones", "tecnologia"]
+      "categories": ["mindPatterns"]
     }
   ]
