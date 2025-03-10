@@ -1,5 +1,11 @@
 [
   {
+    "id": "post3",
+    "categories": [
+      "mindPatterns"
+    ]
+  },
+  {
     "id": "post2",
     "categories": [
       "shadowTales"
