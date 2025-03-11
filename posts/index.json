@@ -1,4 +1,9 @@
-[
+[  {
+  "id": "post4",
+  "categories": [
+    "shadowTales"
+  ]
+},
   {
     "id": "post3",
     "categories": [
