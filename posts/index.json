@@ -1,4 +1,10 @@
 [  {
+  "id": "post5",
+  "categories": [
+    "mindPatterns"
+  ]
+}, 
+  {
   "id": "post4",
   "categories": [
     "shadowTales"
